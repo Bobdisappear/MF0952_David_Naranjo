@@ -1,0 +1,25 @@
+*{
+    padding: 0;
+    margin: 0;
+}
+
+body{
+    background-color: rgba(0, 0, 0, 0.863);
+}
+
+div.int{
+    background-color: rgb(223, 223, 223);
+    display: flex;
+    padding: 2rem;    
+    height: fit-content;
+    margin: 1rem;
+    border-radius: 5px;
+    box-shadow: 10px 5px 5px black;;
+}
+
+h1{
+    margin: 1rem;
+}
+a{
+    
+}
